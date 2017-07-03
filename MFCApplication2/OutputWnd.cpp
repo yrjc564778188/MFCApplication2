@@ -16,6 +16,7 @@ static char THIS_FILE[] = __FILE__;
 
 COutputWnd::COutputWnd()
 {
+	//лМ╪снд╪Ч╡Бйт2
 }
 
 COutputWnd::~COutputWnd()
