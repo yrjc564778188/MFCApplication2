@@ -188,7 +188,7 @@ int CMainFrame::OnCreate(LPCREATESTRUCT lpCreateStruct)
 	// 将文档名和应用程序名称在窗口标题栏上的顺序进行交换。这
 	// 将改进任务栏的可用性，因为显示的文档名带有缩略图。
 	ModifyStyle(0, FWS_PREFIXTITLE);
-
+	AfxMessageBox(_T("Hello Git!"));
 	return 0;
 }
 
